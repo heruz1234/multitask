@@ -3,7 +3,7 @@ const products=[
         id:'1',
         product:'new',
         value:'67489',
-        img_1:'../src/Image/39.jpg',
+        img_1:'/src/Image/39.jpg',
         img_2:'../src/Image/8.jpg',
         img_3:'../src/Image/25.jpg',
         name:'trim dress',
